@@ -10,7 +10,7 @@
 
 # 1、jVM的位置
 
-![image-20220228221708579](readme.assets/image-20220228221708579.png)
+![image-20220228221708579](./readme.assets/image-20220228221708579.png)
 
 1. JVM的体系结构
 2. 类加载器
